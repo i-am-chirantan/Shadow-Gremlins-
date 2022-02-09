@@ -8,7 +8,7 @@ average_weight=input("Enter the average weight: ")
 average_weight=float(average_weight)
 
 
-data = {"registration_number":registration_number,"model_number":model_number,"average_weight":average_weight,"wheel_number":wheel_number}
+data = {"Registration Number":registration_number,"Model Number":model_number,"Average Weight":average_weight,"wheel_number":wheel_number}
 
 
 img = qrcode.make(data)
