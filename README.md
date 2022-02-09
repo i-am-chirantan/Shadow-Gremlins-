@@ -10,7 +10,7 @@ You may also suggest any alternative of the solution or features etc.
 
 ## Languages To Be Considered
 
-- (yet to decided)
+- python
 
 ---
 
@@ -83,3 +83,25 @@ git push -u origin <your_branch_name>
 **15** 🎉 WOAHHHH!!!! 🎉 you made a pull request, Wait for it to get approved and merged 🤗🤗
 
 # 🎉🎉🎉🎉🎉🎉 ___HAPPY CONTRIBUTING!___ 🎉🎉🎉🎉🎉🎉
+
+# How to run
+
+1. **Install the dependencies**
+
+   pip install opencv-python
+
+   pip install pandas
+
+   pip install openpyxl
+
+   pip install pyzbar
+
+   pip install qrcode
+2. **Run Write_in_qr.py file**
+
+   A QR Code png fle will get generated
+3. **Run the Updating Excel Sheet .py**
+
+   video screen will show up.
+
+   Show the generated QR png image to the camera

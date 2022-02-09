@@ -2,7 +2,6 @@ from atexit import register
 import cv2
 from pyzbar.pyzbar import decode
 from warnings import filterwarnings
-import json
 def decode_qr():
         filterwarnings('ignore')
 
